@@ -76,3 +76,4 @@ build*
 
 *.css
 .vscode
+code/1.cpp
